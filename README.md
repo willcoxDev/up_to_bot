@@ -1,4 +1,10 @@
-Just made this as a prrof of concept. Will not be updating it further.
+A basic reddit bot that search comments in a particular subreddit for a mispelled word in this case 'up to'
+then replies to the redditor with the correct spelling.
+It also writes every comment.ID to one of three text files. One for correct spelling of the words 'up to'
+one for incorrect spelling 'upto' and one for every other comment that doesnt fit the other twos criteria.
+The code is highly editable and suitable for a beginner to have a play around with.
+
+Just made this as a proof of concept. I will not be updating it further.
 
 If you want to use yourself
 
